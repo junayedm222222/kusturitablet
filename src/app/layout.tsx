@@ -8,7 +8,7 @@ const hindSiliguri = Hind_Siliguri({
 });
 
 export const metadata: Metadata = {
-  title: "Organic Food - ১০০% পরীক্ষিত সমাধান",
+  title: "কস্তুরী ট্যাবলেট - ১০০% পরীক্ষিত সমাধান",
   description: "দাম্পত্য জীবনে সুখ ফেরাতে ১০০% পরীক্ষিত সমাধান",
 };
 
