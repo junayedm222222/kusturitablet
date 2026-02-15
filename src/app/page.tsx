@@ -156,12 +156,12 @@ export default function Home() {
         <div className="container mx-auto px-4 text-center">
            <div className="border-2 border-yellow-400 p-4 inline-block rounded mb-8 bg-green-800">
               <h2 className="text-2xl md:text-4xl font-bold">সেবন বিধি</h2>
-              <p className="mt-2 text-lg">প্রতি রাতে খাবার পরে এক চা-চামচ পাউডার হাফ গ্লাস কুসুম গরম পানির সাথে মিশিয়ে খাবেন।</p>
+              <p className="mt-2 text-lg">প্রতি রাতে খাবার পরে একটি ট্যাবলেট খাবেন।</p>
            </div>
            
            <div className="flex flex-col md:flex-row justify-center items-center gap-8 mt-6">
               <div className="bg-white p-2 rounded max-w-xs text-black">
-                 <Image src="/s1.png" alt="Bottle" width={300} height={400} className="rounded"/>
+                 <Image src="/l3.png" alt="Bottle" width={300} height={400} className="rounded"/>
               </div>
               <div className="bg-white p-2 rounded max-w-sm">
                  <Image src="/s2.webp" alt="Diagram" width={400} height={400} className="rounded"/>
@@ -312,9 +312,9 @@ export default function Home() {
             </div>
             
             <div className="flex flex-col md:flex-row justify-center gap-6 mb-8">
-                  <Image src="/m1.png" alt="Review 1" width={500} height={600} />
+                  <Image src="/l1.png" alt="Review 1" width={500} height={600} />
        
-                  <Image src="/m2.png" alt="Review 2" width={500} height={600}  />
+                  <Image src="/l2.png" alt="Review 2" width={500} height={600}  />
             </div>
 
             <button onClick={handleScrollToOrder} className="bg-green-600 hover:bg-green-700 text-white text-2xl font-bold py-3 px-12 rounded shadow-xl inline-flex items-center gap-2">
