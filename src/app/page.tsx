@@ -7,7 +7,7 @@ import { Phone, ShoppingCart, CheckCircle, Lock, ShieldCheck, Plus, Minus } from
 export default function Home() {
   // --- CONFIGURATION ---
   // ধাপ ১ এ পাওয়া Google Web App URL টি এখানে পেস্ট করুন
-  const GOOGLE_SCRIPT_URL = "https://script.google.com/macros/s/AKfycbzPGaDB9ZIzjr_CD1G2hT_ZQmX91K1kpBJLvfnWSD4dVXAJamll8fRR-9xo-yr_IVcV/exec"; 
+  const GOOGLE_SCRIPT_URL = "https://script.google.com/macros/s/AKfycbyWmBXZitBODftzd_qyr5mr48uK1b6gJJ9WDnLAlrTEZdtC3m56nqkIDbh9cI8NdFEm/exec"; 
   
   const PRODUCT_PRICE = 1250; // ১ পিসের দাম
   
